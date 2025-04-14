@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* colors */
+  --color-primary: #fea928;
+  --color-secondary: #ed8900;
+
+
+}
+.container {
+  @apply mx-auto px-1 sm:px-[48px];
+}
+
+
+
