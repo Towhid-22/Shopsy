@@ -1,9 +1,5 @@
 import React from "react";
 import Slider from "react-slick";
-// import Sachin from "../assets/sachin.jpg";
-// import Virat from "../assets/viratKohli.jpg";
-// import Victor from "../assets/victor.jpg";
-// import Satya from "../assets/satyaNadella.jpg";
 
 const testimonialData = [
   {
